@@ -1,3 +1,6 @@
+# VSCode settings
+.vscode/
+
 # Prerequisites
 *.d
 
@@ -41,9 +44,6 @@
 *.su
 *.idb
 *.pdb
-
-# VSCode Settings
-.vscode/
 
 # Kernel Module Compile Results
 *.mod*
